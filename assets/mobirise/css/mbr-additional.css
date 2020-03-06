@@ -1347,7 +1347,7 @@ section.lazy-placeholder:after {
 .cid-rh2dpygtK6 {
   padding-top: 15px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rh2dpygtK6 .mbr-section-subtitle {
   color: #767676;
@@ -1431,14 +1431,14 @@ section.lazy-placeholder:after {
 .cid-rh2d7KdIr2 {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rh2d7KdIr2 .card-img {
   background-color: #fff;
 }
 .cid-rh2d7KdIr2 .card-box {
   padding: 2rem;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-rh2d7KdIr2 h4 {
   font-weight: 500;
@@ -1449,7 +1449,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rh2d7KdIr2 .mbr-text {
-  color: #767676;
+  color: #4f4943;
 }
 .cid-rh2d7KdIr2 .card-wrapper {
   height: 100%;
@@ -1468,10 +1468,13 @@ section.lazy-placeholder:after {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-rh2d7KdIr2 .card-title {
+  text-align: center;
+}
 .cid-rSoL6g40aO {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rSoL6g40aO .title {
   margin-bottom: 2rem;
@@ -1492,7 +1495,7 @@ section.lazy-placeholder:after {
 .cid-rSoMlCx0Ph {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-rSoMlCx0Ph .content {
@@ -2072,7 +2075,7 @@ section.lazy-placeholder:after {
   height: 72px;
   font-size: 36px;
   border-radius: 50%;
-  border: 2px solid #efefef;
+  border: 2px solid #cccccc;
   padding-bottom: 0;
 }
 @media (min-width: 768px) {
@@ -2086,7 +2089,7 @@ section.lazy-placeholder:after {
     content: "";
     height: 2px;
     width: calc(50% + 15px - 36px - 8px);
-    background-color: #efefef;
+    background-color: #cccccc;
   }
   .cid-rSpYv3uq7w .separline .step-wrapper:before {
     left: -15px;
@@ -2108,7 +2111,7 @@ section.lazy-placeholder:after {
 .cid-rSsMj9WkQH {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rSsMj9WkQH .title {
   margin-bottom: 2rem;
@@ -2129,7 +2132,7 @@ section.lazy-placeholder:after {
 .cid-rSoQtlRqQs {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-rSoQtlRqQs .content {
