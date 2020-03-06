@@ -2105,6 +2105,27 @@ section.lazy-placeholder:after {
     padding-bottom: 1.5rem;
   }
 }
+.cid-rSsMj9WkQH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rSsMj9WkQH .title {
+  margin-bottom: 2rem;
+}
+.cid-rSsMj9WkQH .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSsMj9WkQH a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rSsMj9WkQH a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rSsMj9WkQH textarea.form-control {
+  min-height: 188px;
+}
 .cid-rSoQtlRqQs {
   padding-top: 30px;
   padding-bottom: 0px;
